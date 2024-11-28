@@ -9,5 +9,4 @@ HTML
 CSS  
 JavaScript  
   
-Running on WAMP Server  
-Developed using Microsoft Visual Studio
+
